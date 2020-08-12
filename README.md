@@ -409,6 +409,6 @@ Properties of a Max Binary Heap:
   - Extracting the root node
   - Searching for a node in a binary heap of size n
 
-## Author
-
+## Authors
+- **Arthur Damm* - [arthurdamm](https://github.com/arthurdamm)
 - **Tu Vo** - [tuvo1106](https://github.com/tuvo1106)
